@@ -55,7 +55,7 @@ const HeroSection = () => {
           transition={{ duration: 0.8, delay: 0.3 }}
           className="font-display text-5xl md:text-7xl lg:text-8xl font-bold mb-6 leading-tight"
         >
-          <span className="gradient-text animate-gradient-shift">Yogini Aishwaryaa</span>
+          <span className="gradient-text animate-gradient-shift">Yogini Aishwaryaa P T S</span>
         </motion.h1>
 
         <motion.p
